@@ -31,14 +31,11 @@ body {
 }
 
 .card {
+  width: 20rem;
+  height: 30rem;
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.card-container {
-  width: 20rem;
-  height: 30rem;
   background-color: var(--blue900);
   border-radius: 1rem;
 }
