@@ -10,10 +10,6 @@
 --white: hsl(0, 0%, 100%);
 }
 
-html {
-  font-size: 62.5%;
-}
-
 @font-face {
   font-family: "Outfit";
   src: url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
@@ -31,7 +27,6 @@ body {
   background-color: var(--blue950);
   height: 100vh;
   width: 100vw;
-  font-size: 1.6em;
   display: flex;
   align-items: center;
   justify-content: center;
