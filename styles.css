@@ -16,10 +16,13 @@
   src: url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 }
 
-body {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
   font-family: "Outfit", sans-serif;
   background-color: var(--blue950);
   max-height: 100vh;
