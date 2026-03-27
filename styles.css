@@ -35,11 +35,11 @@ body {
 }
 
 .card {
-  width: 20rem;
-  height: 30rem;
+  width: 40rem;
+  height: 80rem;
   background-color: var(--blue900);
-  border-radius: 1rem;
-  padding: 1.5rem;
+  border-radius: 2rem;
+  padding: 2rem;
   border: 1px solid var(--white);
 }
 
