@@ -38,8 +38,8 @@ body {
 }
 
 .card {
-  width: 40rem;
-  height: 80rem;
+  width: 16rem;
+  height: 50rem;
   background-color: var(--blue900);
   border-radius: 2rem;
   padding: 2rem;
