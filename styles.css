@@ -70,6 +70,7 @@ body {
 
 .stats {
   display: flex;
+  align-item: stretch;
   justify-content: space-between;
 }
 
