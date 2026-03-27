@@ -54,3 +54,47 @@ body {
   object-fit: contain;
   border-radius: 1rem;
 }
+
+.title {
+  font-size: 2rem;
+  color: var(--white);
+  text-align: left;
+}
+
+.info {
+  color: var(--blue500);
+  font-size: 1.125rem:
+  text-align: left;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-between;
+}
+
+hr {
+  color: var(--blue800);
+}
+
+.picture {
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid var(--white);
+}
+
+.name {
+  font-size: 1.125rem;
+}
+
+.creator {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.author {
+  color: var(--white);
+}
+
+.author:hover {
+  color: var(--cyan400);
+}
