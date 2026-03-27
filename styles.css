@@ -37,7 +37,7 @@ body {
   height: 35rem;
   background-color: var(--blue900);
   border-radius: 2rem;
-  padding: 2rem;
+  padding: 1.8rem;
   border: 1px solid var(--white);
 }
 
