@@ -71,8 +71,16 @@ body {
 
 .stats {
   display: flex;
-  align-items: stretch;
+  align-items: center;
   justify-content: space-between;
+}
+
+.cost {
+  color: var(--cyan400);
+}
+
+.time {
+  color: var(--blue500);
 }
 
 hr {
