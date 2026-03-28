@@ -103,3 +103,7 @@ hr {
   color: var(--cyan400);
   cursor: pointer;
 }
+
+p, hr {
+  margin: 1rem 0;
+}
