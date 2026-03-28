@@ -108,8 +108,10 @@ hr {
 
 .creator {
   display: flex;
+  align-items: flex-start;
   gap: 1.5rem;
   color: var(--blue500);
+  margin-top: .5rem
 }
 
 .author {
