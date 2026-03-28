@@ -71,8 +71,8 @@ body {
 
 .stats {
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  gap: 2rem;
 }
 
 .cost {
@@ -87,6 +87,7 @@ hr {
   border-color: var(--blue800);
   height: 1px;
   width: 100%;
+  margin: .5rem;
  /* border-top: 1px solid var(--blue800); */
 }
 
