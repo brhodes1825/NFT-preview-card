@@ -38,7 +38,6 @@ body {
   background-color: var(--blue900);
   border-radius: 2rem;
   padding: 1.8rem;
-  border: 1px solid var(--white);
 }
 
 .card-container {
@@ -53,14 +52,14 @@ body {
   height: 100%;
   object-fit: contain;
   border-radius: 1rem;
-  margin-bottom: 1.3rem;
+  margin-bottom: 1.125rem;
 }
 
 .title {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
+  font-weight: 600;
   color: var(--white);
   width: 100%;
-  /* margin: 0 auto; */
   text-align: left;
 }
 
