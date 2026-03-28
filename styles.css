@@ -103,6 +103,7 @@ hr {
 .name {
   font-size: 1rem;
   font-weight: 300;
+  color: var(--blue500);
 }
 
 .creator {
@@ -111,7 +112,6 @@ hr {
   width: 100%;
   text-align: left;
   gap: 1rem;
-  color: var(--blue500);
   margin-top: .5rem
 }
 
