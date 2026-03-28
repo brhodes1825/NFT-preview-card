@@ -84,9 +84,9 @@ body {
 }
 
 hr {
-  /* border-color: var(--blue800);
-  height: 1px; */
-  border-top: 1px solid var(--blue800);
+  border-color: var(--blue800);
+  height: 1px;
+ /* border-top: 1px solid var(--blue800); */
 }
 
 .picture {
