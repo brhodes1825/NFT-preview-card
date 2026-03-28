@@ -86,6 +86,7 @@ body {
 hr {
   border-color: var(--blue800);
   height: 1px;
+  width: 100%;
  /* border-top: 1px solid var(--blue800); */
 }
 
