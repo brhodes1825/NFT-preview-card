@@ -59,7 +59,7 @@ body {
 .title {
   font-size: 1.25rem;
   color: var(--white);
-  text-align: left;
+  text-align: right;
 }
 
 .info {
